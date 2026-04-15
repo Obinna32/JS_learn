@@ -18,7 +18,7 @@ form{
 }
 
 #textBox{
-    width: 50px;
+    width: 100px;
     text-align: center;
     font-size: 2em;
     border: 2px solid hsla(0 0% 0% 0.8);
